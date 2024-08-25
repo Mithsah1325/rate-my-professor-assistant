@@ -1,0 +1,575 @@
+{
+    "reviews": [
+      {
+        "professor": "Emily Taylor",
+        "review": "Great professor, explains concepts clearly.",
+        "subject": "CIT ",
+        "stars": 5
+      },
+      {
+        "professor": "Gary Newell",
+        "review": "100% would take again, level of difficulty: 2.3",
+        "subject": "Computer Science",
+        "stars": 2.3
+      },
+      {
+        "professor": "Anthont TseTse",
+        "review": "90% would take again, level of difficulty: 3",
+        "subject": "Computer Science & Cybersecurity",
+        "stars": 5
+      },
+      {
+        "professor": "Chris Brewer",
+        "review": "100% would take again, level of difficulty: 4",
+        "subject": "Web Development",
+        "stars": 5
+      },
+      {
+        "professor": "Awad Mussa",
+        "review": "Assignments are challenging but rewarding.",
+        "subject": "Computer Science & Cybersecurity",
+        "stars": 4
+      },
+      {
+        "professor": "Maureen Doyle",
+        "review": "Interesting course material and explains course realted stuffs clearly",
+        "subject": "Applied Software Engineering & Software Design",
+        "stars": 4.5
+      },
+      {
+        "professor": "Prof7",
+        "review": "Great at breaking down complex topics.",
+        "subject": "Philosophy",
+        "stars": 5
+      },
+      {
+        "professor": "Prof8",
+        "review": "Good professor, but exams are tough.",
+        "subject": "Economics",
+        "stars": 4
+      },
+      {
+        "professor": "Junxio Zhou",
+        "review": "Very knowledgeable but not very engaging.",
+        "subject": "AI/ML",
+        "stars": 4
+      },
+      {
+        "professor": "Cynthia Thomas",
+        "review": "Friendly and supportive, highly recommended.",
+        "subject": "Cybersecurity",
+        "stars": 5
+      },
+      {
+        "professor": "Prof11",
+        "review": "Lectures are interesting, but workload is heavy.",
+        "subject": "Sociology",
+        "stars": 4
+      },
+      {
+        "professor": "Prof12",
+        "review": "Provides useful feedback on assignments.",
+        "subject": "Literature",
+        "stars": 4
+      },
+      {
+        "professor": "Prof13",
+        "review": "Encourages class participation, very interactive.",
+        "subject": "Political Science",
+        "stars": 5
+      },
+      {
+        "professor": "Prof14",
+        "review": "Detailed and comprehensive lectures.",
+        "subject": "Geography",
+        "stars": 5
+      },
+      {
+        "professor": "Ankur Chattopadhya",
+        "review": "Very clear in explanations, understandable at all times.",
+        "subject": "Computer Science & Cybersecurity",
+        "stars": 5
+      },
+      {
+        "professor": "Jason White",
+        "review": "Always available for extra help.",
+        "subject": "Computer Science",
+        "stars": 5
+      },
+      {
+        "professor": "Asa'd As'ad",
+        "review": "Requires a lot of reading, but worth it.",
+        "subject": "Computer Science",
+        "stars": 4
+      },
+      {
+        "professor": "Samuel Cho",
+        "review": "Clear and concise, makes difficult concepts easy.",
+        "subject": "Computer Science",
+        "stars": 5
+      },
+      {
+        "professor": "Shahid Noor",
+        "review": "Exams are fair but assignments are difficult.",
+        "subject": "Computer Science & Cybersecurity",
+        "stars": 4
+      },
+      {
+        "professor": "Nicholas Caporusso",
+        "review": "Engages with students and provides practical examples.",
+        "subject": "Full Stack Development & Programming",
+        "stars": 5
+      },
+      {
+        "professor": "Emily Detmer-Goebel",
+        "review": "An engaging and insightful professor who makes complex topics understandable.",
+        "subject": "English",
+        "stars": 4.7
+      },
+      {
+        "professor": "Lisa Droege",
+        "review": "Highly knowledgeable and always willing to help students succeed.",
+        "subject": "Biological Sciences",
+        "stars": 5.0
+      },
+      {
+        "professor": "Joseph Nolan",
+        "review": "Explains concepts clearly and fosters a supportive learning environment.",
+        "subject": "Engineering",
+        "stars": 5.0
+      },
+      {
+        "professor": "April Hill",
+        "review": "Makes learning enjoyable with interactive and informative lectures.",
+        "subject": "Sociology",
+        "stars": 5.0
+      },
+      {
+        "professor": "Helen Bukulmez",
+        "review": "Provides real-world examples that enhance understanding of the material.",
+        "subject": "Law",
+        "stars": 4.5
+      },
+      {
+        "professor": "Katherine Sliter",
+        "review": "Creates a welcoming classroom atmosphere and encourages critical thinking.",
+        "subject": "Psychology",
+        "stars": 4.7
+      },
+      {
+        "professor": "Charles Heath",
+        "review": "Offers valuable insights and practical knowledge applicable to the field.",
+        "subject": "Marketing",
+        "stars": 4.3
+      },
+      {
+        "professor": "Mike King",
+        "review": "Passionate about the subject and engages students through dynamic teaching methods.",
+        "subject": "Theater",
+        "stars": 4.2
+      },
+      {
+        "professor": "Bryan Holmes",
+        "review": "Explains complex topics in a straightforward manner and is approachable for questions.",
+        "subject": "Poli-Science & Crim. Justice",
+        "stars": 3.8
+      },
+      {
+        "professor": "Mike Sterling",
+        "review": "Provides clear explanations and supports students throughout the course.",
+        "subject": "Management",
+        "stars": 4.7
+      },
+      {
+        "professor": "Lauren Mohr",
+        "review": "Exceptional instructor who makes the subject matter engaging and relatable.",
+        "subject": "Communication",
+        "stars": 5.0
+      },
+      {
+        "professor": "Vickie Knueven",
+        "review": "Encourages critical thinking and provides helpful feedback on assignments.",
+        "subject": "English",
+        "stars": 5.0
+      },
+      {
+        "professor": "Lori Wheeler",
+        "review": "Demonstrates deep knowledge and enthusiasm, making classes enjoyable.",
+        "subject": "Fine Arts",
+        "stars": 5.0
+      },
+      {
+        "professor": "Beth Ackerson",
+        "review": "Offers practical insights and supports students in understanding complex concepts.",
+        "subject": "Business Informatics",
+        "stars": 5.0
+      },
+      {
+        "professor": "Aaron Zlatkin",
+        "review": "Engages students with interactive lessons and real-world examples.",
+        "subject": "Film",
+        "stars": 3.8
+      },
+      {
+        "professor": "Megan Peek",
+        "review": "Creates a supportive learning environment and delivers content effectively.",
+        "subject": "Communication",
+        "stars": 5.0
+      },
+      {
+        "professor": "Traci Freeman",
+        "review": "Extremely helpful and ensures that all students grasp the material thoroughly.",
+        "subject": "Nursing",
+        "stars": 5.0
+      },
+      {
+        "professor": "Bobby Platt",
+        "review": "Provides comprehensive explanations and encourages active participation.",
+        "subject": "Law",
+        "stars": 5.0
+      },
+      {
+        "professor": "JeeEun Lee",
+        "review": "Inspires creativity and provides constructive feedback to improve skills.",
+        "subject": "Fine Arts",
+        "stars": 4.4
+      },
+      {
+        "professor": "Jason Farkas",
+        "review": "Knowledgeable and approachable, making complex topics easier to understand.",
+        "subject": "Social Science",
+        "stars": 5.0
+      },
+      {
+        "professor": "Ralph Draper",
+        "review": "Combines theoretical knowledge with practical applications effectively.",
+        "subject": "Engineering",
+        "stars": 5.0
+      },
+      {
+        "professor": "Krista Weiss",
+        "review": "Passionate about music and inspires students through engaging lessons.",
+        "subject": "Music",
+        "stars": 5.0
+      },
+      {
+        "professor": "Willie Elliott",
+        "review": "Provides insightful lectures and supports students' academic growth.",
+        "subject": "Social Work",
+        "stars": 4.4
+      },
+      {
+        "professor": "Judith Meeker-Archer",
+        "review": "Encourages creativity and provides a supportive environment for learning.",
+        "subject": "Theater",
+        "stars": 4.1
+      },
+      {
+        "professor": "Frank Sheehy",
+        "review": "Makes geology interesting and accessible through engaging teaching methods.",
+        "subject": "Geology",
+        "stars": 4.1
+      },
+      {
+        "professor": "Chris Strobel",
+        "review": "Offers valuable industry insights and encourages active class participation.",
+        "subject": "Communication",
+        "stars": 4.5
+      },
+      {
+        "professor": "Jessica Mandle",
+        "review": "Excellent at explaining concepts clearly and thoroughly.",
+        "subject": "Business",
+        "stars": 5.0
+      },
+      {
+        "professor": "Anthony Burk",
+        "review": "Provides detailed explanations and is always available for assistance.",
+        "subject": "Business Informatics",
+        "stars": 3.8
+      },
+      {
+        "professor": "Donald Knochelmann",
+        "review": "Combines practical experience with theoretical knowledge effectively.",
+        "subject": "Construction Management",
+        "stars": 4.0
+      },
+      {
+        "professor": "Gary De Jesus",
+        "review": "Engaging lectures that connect marketing theory to real-world scenarios.",
+        "subject": "Marketing",
+        "stars": 5.0
+      },
+      {
+        "professor": "Sara Drabik",
+        "review": "Encourages critical thinking and provides meaningful feedback.",
+        "subject": "Communication",
+        "stars": 4.1
+      },
+      {
+        "professor": "Tamuchin McCreless",
+        "review": "Makes complex technical topics understandable and interesting.",
+        "subject": "Business Informatics",
+        "stars": 4.7
+      },
+      {
+        "professor": "Jason Mossman",
+        "review": "Offers insightful critiques and fosters a creative learning environment.",
+        "subject": "Film",
+        "stars": 3.4
+      },
+      {
+        "professor": "Nancy Dick",
+        "review": "Provides clear instructions and encourages active class discussions.",
+        "subject": "English",
+        "stars": 4.2
+      },
+      {
+        "professor": "Michael Washington",
+        "review": "Deeply knowledgeable and presents historical content engagingly.",
+        "subject": "History",
+        "stars": 3.9
+      },
+      {
+        "professor": "Richard Fox",
+        "review": "Challenging courses that greatly enhance understanding and skills.",
+        "subject": "Computer Science",
+        "stars": 4.1
+      },
+      {
+        "professor": "Beth Wells",
+        "review": "Simplifies complex mathematical concepts and supports student learning.",
+        "subject": "Mathematics",
+        "stars": 5.0
+      },
+      {
+        "professor": "Roxanne Kent-drury",
+        "review": "Provides detailed feedback and pushes students to improve their writing.",
+        "subject": "English",
+        "stars": 3.3
+      },
+      {
+        "professor": "Robert Thacker",
+        "review": "Engages students through interactive lectures and hands-on activities.",
+        "subject": "Biology",
+        "stars": 4.6
+      },
+      {
+        "professor": "Blaise Weller",
+        "review": "Encourages thoughtful discussions and critical analysis of texts.",
+        "subject": "English",
+        "stars": 3.8
+      },
+      {
+        "professor": "Malcom Henderson",
+        "review": "Provides clear and concise explanations, making complex topics approachable.",
+        "subject": "Business",
+        "stars": 5.0
+      },
+      {
+        "professor": "Kimberly Schave",
+        "review": "Creates an engaging learning environment and is very supportive.",
+        "subject": "Student Success",
+        "stars": 5.0
+      },
+      {
+        "professor": "Peter Padolik",
+        "review": "Makes chemistry interesting and understandable through practical examples.",
+        "subject": "Chemistry",
+        "stars": 5.0
+      },
+      {
+        "professor": "Lynda Mercer",
+        "review": "Encourages interdisciplinary thinking and supports student creativity.",
+        "subject": "Interdisciplinary Studies",
+        "stars": 5.0
+      },
+      {
+        "professor": "Erin Hackmann",
+        "review": "Passionate about art history and conveys information engagingly.",
+        "subject": "Art History",
+        "stars": 5.0
+      },
+      {
+        "professor": "Matt Gregory",
+        "review": "Excellent at breaking down complex problems into understandable steps.",
+        "subject": "Mathematics",
+        "stars": 5.0
+      },
+      {
+        "professor": "Andrew Miller",
+        "review": "Facilitates engaging discussions and provides insightful perspectives.",
+        "subject": "English",
+        "stars": 4.1
+      },
+      {
+        "professor": "Elizabeth Harris",
+        "review": "Brings enthusiasm and expertise to each class, making learning enjoyable.",
+        "subject": "Theater",
+        "stars": 4.4
+      },
+      {
+        "professor": "Olga Filatova",
+        "review": "Offers comprehensive explanations and supports students' academic growth.",
+        "subject": "English",
+        "stars": 4.5
+      },
+      {
+        "professor": "Terri Iacobucci",
+        "review": "Provides detailed lectures but may require extra effort to keep up.",
+        "subject": "Business",
+        "stars": 2.8
+      },
+      {
+        "professor": "Nicole Grant",
+        "review": "Shares extensive knowledge and encourages active participation.",
+        "subject": "Sociology",
+        "stars": 3.1
+      },
+      {
+        "professor": "Jang-Chul Kim",
+        "review": "Challenges students to think critically and understand financial concepts deeply.",
+        "subject": "Finance",
+        "stars": 3.8
+      },
+      {
+        "professor": "Jeffrey Steller",
+        "review": "Provides thorough explanations and is supportive throughout the course.",
+        "subject": "Biological Sciences",
+        "stars": 3.7
+      },
+      {
+        "professor": "Seungcheol Lee",
+        "review": "Encourages insightful discussions and critical analysis in communications.",
+        "subject": "Communication",
+        "stars": 4.0
+      },
+      {
+        "professor": "David Hogan",
+        "review": "Presents psychological concepts clearly and encourages student engagement.",
+        "subject": "Psychology",
+        "stars": 3.5
+      },
+      {
+        "professor": "Jerome Gonnella",
+        "review": "Provides practical examples that help in understanding complex topics.",
+        "subject": "Business Informatics",
+        "stars": 3.9
+      },
+      {
+        "professor": "Cathy Ingram",
+        "review": "Offers comprehensive lectures but can be challenging to follow at times.",
+        "subject": "Health",
+        "stars": 3.5
+      },
+      {
+        "professor": "Elizabeth Schoulties",
+        "review": "Highly supportive and ensures students grasp nursing concepts thoroughly.",
+        "subject": "Nursing",
+        "stars": 5.0
+      },
+      {
+        "professor": "Danielle Donley",
+        "review": "Creates engaging and informative communication classes.",
+        "subject": "Communication",
+        "stars": 4.5
+      },
+      {
+        "professor": "Kathleen Broomall",
+        "review": "Provides clear explanations and supports students in mastering the material.",
+        "subject": "Biological Sciences",
+        "stars": 5.0
+      },
+      {
+        "professor": "Gary Gray",
+        "review": "Offers detailed insights and practical knowledge in management.",
+        "subject": "Management",
+        "stars": 3.9
+      },
+      {
+        "professor": "Mari Hoffman",
+        "review": "Explains mathematical concepts clearly and is patient with student questions.",
+        "subject": "Mathematics",
+        "stars": 4.0
+      },
+      {
+        "professor": "Sara Mahle",
+        "review": "Engages students through interactive and insightful media discussions.",
+        "subject": "Radio, TV & Film",
+        "stars": 4.6
+      },
+      {
+        "professor": "Renee Human",
+        "review": "Encourages creativity and critical thinking in communications.",
+        "subject": "Not Specified",
+        "stars": 4.9
+      },
+      {
+        "professor": "Monica Gallegos",
+        "review": "Provides clear guidelines and supports effective communication skills.",
+        "subject": "Communication",
+        "stars": 3.7
+      },
+      {
+        "professor": "Robert Brice",
+        "review": "Encourages deep philosophical thinking and thoughtful discussions.",
+        "subject": "Philosophy",
+        "stars": 3.8
+      },
+      {
+        "professor": "Patrick Ashley",
+        "review": "Makes complex communication theories accessible and engaging.",
+        "subject": "Communication",
+        "stars": 4.5
+      },
+      {
+        "professor": "Marie Jump",
+        "review": "Courses can be challenging, but she provides the necessary support to succeed.",
+        "subject": "Mathematics",
+        "stars": 2.6
+      },
+      {
+        "professor": "Jennifer Kinsley",
+        "review": "Extremely knowledgeable and provides practical insights into law topics.",
+        "subject": "Law",
+        "stars": 5.0
+      },
+      {
+        "professor": "Sarah Keefe",
+        "review": "Offers comprehensive lessons and is supportive throughout the course.",
+        "subject": "Information Science",
+        "stars": 4.0
+      },
+      {
+        "professor": "Barbara Cowan",
+        "review": "Provides valuable social work perspectives and encourages active learning.",
+        "subject": "Social Work",
+        "stars": 5.0
+      },
+      {
+        "professor": "Wayne Bresser",
+        "review": "Explains information science concepts clearly and effectively.",
+        "subject": "Information Science",
+        "stars": 5.0
+      },
+      {
+        "professor": "Kasey Kuhjada",
+        "review": "Engages students through thoughtful discussions and detailed feedback.",
+        "subject": "English",
+        "stars": 5.0
+      },
+      {
+        "professor": "Brian Sauer",
+        "review": "Provides practical examples and supports students' understanding of topics.",
+        "subject": "Computer Science",
+        "stars": 5.0
+      },
+      {
+        "professor": "Ian Aiuto",
+        "review": "Creates a supportive environment and offers insightful social work lessons.",
+        "subject": "Social Work",
+        "stars": 5.0
+      }
+    ]
+  }
+  
